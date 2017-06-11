@@ -5,7 +5,7 @@ With an application given the diagram below, what would be some methods for upda
 application with zero down time?  Assume that the instance runs an nginx webserver.
 
 
-![Upgrade situation](/upgrade.png)
+![Upgrade situation](/upgrade/upgrade.png)
 
 ## Response
 
